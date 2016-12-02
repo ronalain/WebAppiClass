@@ -328,6 +328,8 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Home2.cshtml" />
     <Content Include="Views\Home\Home3.cshtml" />
+    <Content Include="Views\Home\Home4.cshtml" />
+    <Content Include="Views\Home\Home5.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
